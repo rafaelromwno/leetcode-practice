@@ -1,0 +1,32 @@
+binary tree
+	226. invert binary tree
+
+graph
+	133. clone a graph
+	743. network delay time
+	207. course schedule
+	200. number of islands
+
+stack
+	[extra] stack implementation
+	155. min stack
+	20. valid parentheses
+	739. daily temperature
+
+heap - priority queue
+
+	[extra] heap implementation
+	[extra] min_heap implementation
+	703. kth largest element in a stream
+	347. top K Frequent Elements
+	23. merge k sorted lists
+
+dinamic programming (dp)
+	
+	70. climbing stairs/fibonacci - revisao
+	146. least recently used (LRU) cache
+	91. decode ways
+
+knapsack 
+	322. coin change
+
