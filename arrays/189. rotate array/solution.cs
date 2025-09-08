@@ -8,10 +8,9 @@ rotacionar à direita por k é o mesmo que:
 public class Solution {
     public void Rotate(int[] nums, int k) {
         
-       int size = nums.Length;
+        int size = nums.Length;
 
-        // avoid a cycle
-       if (k > size)
+        // prevenir um ciclo desnecessario
         k %= size;
 
         // reverter todo o array
@@ -29,12 +28,12 @@ public class Solution {
     {
         while (start < end)
         {
-            // trocar
+            // swap
             int temp = array[end];
             array[end] = array[start];
             array[start] = temp;
 
-            // movendo os ponteiros até se encontrarem
+            // moving the pointers
             start++;
             end--;
 
