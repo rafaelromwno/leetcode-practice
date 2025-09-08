@@ -69,14 +69,6 @@ This is a personal learning repository, but feel free to open an issue if you'd 
 
 You can follow my progress directly on my [LeetCode profile](https://leetcode.com/u/rafaelromwno/), where I track daily and weekly problem-solving streaks, ranking, and badges.
 
----
-
-## 🛠️ Tech Stack
-
-* Primary language: C++ (or update if using Python, Java, etc.)
-* Tools: VSCode, Git, Markdown
-
----
 
 ## 📜 License
 
