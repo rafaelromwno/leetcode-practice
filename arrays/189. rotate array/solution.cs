@@ -13,6 +13,10 @@ public class Solution {
         // prevenir um ciclo desnecessario
         k %= size;
 
+        // se nenhuma rotação for aplicada OU número de itens do array é menor ou igual a 1 -> saia da funcao
+        if (k == 0 || n <= 1)
+            return;
+
         // reverter todo o array
         Reverse(nums, 0, size - 1);
 
