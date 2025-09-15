@@ -24,3 +24,7 @@ dinamic programming (dp)
 
 knapsack 
 	322. coin change
+
+extra
+	bloom filter
+	hashmap
