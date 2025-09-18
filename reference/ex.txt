@@ -7,7 +7,6 @@ graph
 stack
 
 	155. min stack
-	20. valid parentheses
 	739. daily temperature
 
 heap - priority queue
@@ -18,7 +17,6 @@ heap - priority queue
 
 dinamic programming (dp)
 	
-	70. climbing stairs/fibonacci - revisao
 	146. least recently used (LRU) cache
 	91. decode ways
 
