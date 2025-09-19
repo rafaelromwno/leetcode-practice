@@ -4,10 +4,6 @@ graph
 	207. course schedule
 	200. number of islands
 
-stack
-
-	155. min stack
-
 heap - priority queue
 
 	703. kth largest element in a stream
