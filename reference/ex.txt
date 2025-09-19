@@ -7,7 +7,6 @@ graph
 stack
 
 	155. min stack
-	739. daily temperature
 
 heap - priority queue
 
